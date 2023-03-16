@@ -1,0 +1,16 @@
+PODS:
+  - FrameWorks (0.0.1)
+
+DEPENDENCIES:
+  - FrameWorks (from `../FrameWorks`)
+
+EXTERNAL SOURCES:
+  FrameWorks:
+    :path: "../FrameWorks"
+
+SPEC CHECKSUMS:
+  FrameWorks: 4d11e310d97e1756d195cb7194efb8c2f349d947
+
+PODFILE CHECKSUM: b99f11a8d2899afaf2ac954cb1a78778c7cb2b91
+
+COCOAPODS: 1.11.3
